@@ -12,7 +12,7 @@
       "**/core.python*": true,
       "**/CVS": true
    },
-   "files.autoSave": "off",
+   "files.autoSave": "afterDelay",
    "workbench.colorTheme": "GitHub Dark Default",
    "terminal.integrated.gpuAcceleration": "canvas",
    "liveServer.settings.port": 5501,
